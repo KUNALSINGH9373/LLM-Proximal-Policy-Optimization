@@ -1,6 +1,10 @@
 # LLM-Proximal-Policy-Optimization
 
 1. Policy Gradient Algorithms: https://adityajain.me/blogs/proximal-policy-optimization.html
+2. Rethinking the Role of PPO in RLHF: https://bair.berkeley.edu/blog/2023/10/16/p3o/
+3. Proximal Policy Optimization (PPO): The Key to LLM Alignment: https://cameronrwolfe.substack.com/p/proximal-policy-optimization-ppo
+
+
 
 Policy Gradient Methods: A class of reinforcement learning algorithms that directly optimize the policy (the agent's decision-making function) by adjusting its parameters based on the gradient of a performance objective.
 Actor-Critic Architecture: A common framework for policy gradient methods that involves two components:
